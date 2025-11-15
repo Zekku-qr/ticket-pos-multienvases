@@ -1,0 +1,26 @@
+# ----- ARCHIVOS GENERADOS POR EL SISTEMA POS -----
+ticket_*.pdf
+*.pdf
+
+# Archivo donde guardamos el número de ticket
+ticket.txt
+
+# Logo del negocio (si no quieres subirlo)
+logo.png
+
+# ----- PYTHON -----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+
+# ----- EDITORES -----
+.vscode/
+.idea/
+
+# ----- ENTORNOS VIRTUALES -----
+venv/
+.env/
+.env.bak/
